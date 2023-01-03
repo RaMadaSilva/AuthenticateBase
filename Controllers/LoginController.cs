@@ -1,7 +1,6 @@
 
 
 using AuthApi.DTO;
-using AuthApi.Models;
 using AuthApi.Repository;
 using AuthApi.Services;
 using Microsoft.AspNetCore.Mvc;
